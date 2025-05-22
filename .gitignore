@@ -1,1 +1,17 @@
+#仮
 config.json
+
+# GCP SDK
+google-cloud-sdk/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+env/
+
+# VSCode
+.vscode/
+
+# dotenv
+.env
