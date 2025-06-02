@@ -15,3 +15,10 @@ env/
 
 # dotenv
 .env
+
+# キャッシュ系
+*.tar.gz
+*.zip
+
+# .pem
+*.pem
